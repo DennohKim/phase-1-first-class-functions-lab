@@ -77,3 +77,24 @@ describe('index.js', function () {
     });
   });
 });
+
+
+
+// const multiplierFare = fareMultiplier(value);
+
+// function fareDoubler(value){
+//     return multiplierFare * 2
+        
+    
+// }
+
+// fareDoubler(10)
+
+
+
+// function selectDifferentDrivers(arrayOfDrivers, twoDrivers){
+//     console.log(arrayOfDrivers)
+//     console.log(twoDrivers)
+// }
+
+// selectDifferentDrivers(drivers, returnFirstTwoDrivers)
